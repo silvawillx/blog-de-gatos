@@ -17,12 +17,12 @@ UI/UX Layout by RocketSeat.
 
 You can view and interact with the project page through
 <p align="center">
-<a href="https://ivanbs14.github.io/Land_page_BlogGatos/">Click here</a>
+<a href="https://silvawillx.github.io/blog-de-gatos/">Click here</a>
 </p>
 
 <p align="center">
   Desktop version:<br>
-  <img alt="License" src="/img/Desktop.png/assets/Desktop.png" width="70%" display="flex" gap="5px" ><br>
+  <img alt="License" src="/img/Desktop.png" width="70%" display="flex" gap="5px" ><br>
   Mobile version:<br>
   <img alt="License" src="./img/Mobile.png" width="40%" display="flex" gap="5px" >
 </p>
