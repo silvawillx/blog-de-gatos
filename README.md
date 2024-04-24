@@ -17,7 +17,11 @@ UI/UX Layout by RocketSeat.
 
 You can view and interact with the project page through
 <p align="center">
+<<<<<<< HEAD
 <a href="https://silvawillx.github.io/blog-de-gatos/">Click here</a>
+=======
+<a href="[(https://silvawillx.github.io/blog-de-gatos/)]">Click here</a>
+>>>>>>> 328274543d36c2195240df7349428063bf33f9f9
 </p>
 
 <p align="center">
