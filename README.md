@@ -17,7 +17,7 @@ UI/UX Layout by RocketSeat.
 
 You can view and interact with the project page through
 <p align="center">
-<a href="https://ivanbs14.github.io/Land_page_BlogGatos/">Click here</a>
+<a href="(https://silvawillx.github.io/blog-de-gatos/)">Click here</a>
 </p>
 
 <p align="center">
